@@ -3,6 +3,4 @@ emustermann
 sspecimen
 jspecimen
 hmartindupont
-jwest
-sholmes
-jrouletabille
+mmartin
